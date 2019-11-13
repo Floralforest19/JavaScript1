@@ -1,0 +1,14 @@
+.content{
+    font-style: italic;
+}
+
+.leadin{
+    font-weight: bold;
+}
+#homelink{
+    background: pink;
+}
+
+div > P{
+    background: pink;
+}
